@@ -27,7 +27,7 @@ The objective of this workflow is:
 * Send the response back on WhatsApp automatically
 
 ---
-<img width="720" height="4160" alt="WhatsApp Image 2026-05-06 at 11 52 03 AM" src="https://github.com/user-attachments/assets/c9e55bb1-f6a9-4855-b248-3ed274edcdec" />
+<img width="720" height="1600" alt="WhatsApp Image 2026-05-06 at 11 52 03 AM" src="https://github.com/user-attachments/assets/a9befcc5-1e50-41b9-9cca-bf9c51541235" />
 
 # Example User Queries
 
