@@ -1,5 +1,8 @@
 # n8n WhatsApp Calendar Assistant Workflow
 
+<img width="1132" height="531" alt="whatsapp-appointment-workflow-using-twilio" src="https://github.com/user-attachments/assets/b8e16e36-a431-40ff-b4b6-81f09c13ee8a" />
+
+
 ## Project Overview
 
 This project is an AI-powered WhatsApp Calendar Assistant created using:
